@@ -26,7 +26,7 @@ Para usar esta biblioteca em seu projeto, siga os passos abaixo:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [[https://github.com/SeuUsuario/AB1805-HTNB32L.git](https://github.com/SeuUsuario/AB1805-HTNB32L.git)](https://github.com/WeslleyFabio/AB1805.git)
+    git clone https://github.com/WeslleyFabio/AB1805.git
     ```
     (Lembre-se de substituir `SeuUsuario` pelo seu nome de usuário do GitHub e `AB1805-HTNB32L` pelo nome real do seu repositório.)
 
