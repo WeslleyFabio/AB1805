@@ -69,6 +69,6 @@ Este projeto é distribuído sob a licença **Apache License 2.0**. Isso signifi
 
 ## Contato
 
-Para dúvidas, sugestões ou apenas para dizer um "oi", você pode entrar em contato através do meu perfil no GitHub ou pelo e-mail: [SeuEmail@exemplo.com]
+Para dúvidas, sugestões ou apenas para dizer um "oi", você pode entrar em contato através do meu perfil no GitHub ou pelo e-mail: [weslleyfabioffs@gmail.com]
 
 ---
